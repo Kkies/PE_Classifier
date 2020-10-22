@@ -10,7 +10,7 @@
 - Notebooks to refer to 
 ### The Business Question/Case 
 ---
-- PEs can be hard to spot even for experiences and specialized teams. However, with the advent of Deep Learning, we have another tool in our toolbox to classify PEs with more accuracy. 
+- PEs can be hard to spot even for experienced and specialized practitioners. However, with the advent of Deep Learning, we have another tool in our toolbox to help classify PEs with more accuracy. 
 ###  Select Observations/Findings and Conclusions
 ---
 
