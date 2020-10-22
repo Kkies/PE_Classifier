@@ -4,9 +4,9 @@
 
 ## Introduction
 ---
-- A PE is a blood clot that gets lodged in the lungs. Typically patients who are unhealthy will have many, small emboli however, a massive PE can be deadly. According to the CDC, sudden death is the FIRST symptom in about a quarter of patients with a PE. Additionally, 10-30% of patients will die within one month of diagnosis. 
+- A PE is a blood clot that gets lodged in the vasculature of the lungs. Typically patients who are unhealthy will have many, small emboli however, a massive PE can be deadly as your heart and lungs are directly attached to one another. According to the CDC, sudden death is the FIRST symptom in about a quarter of patients with a PE. Additionally, 10-30% of patients will die within one month of diagnosis. 
 - Data was taken from Kaggle. The original size of the data was over 900 gigabytes due to the large image files. However, we were able to find a smaller sized JPEG version of the data which we used for this project. 
-- Libraries used 
+- Libraries used: ```pandas numpy matplotlib scikitlearn tensorflow keras```
 - Notebooks to refer to 
 ### The Business Question/Case 
 ---
