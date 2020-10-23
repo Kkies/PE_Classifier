@@ -13,13 +13,30 @@
 - PEs can be hard to spot even for experienced and specialized practitioners. However, with the advent of Deep Learning, we have another tool in our toolbox to help classify PEs with more accuracy. 
 
 ### Data
+---
 **Data:** RSNA STR Pulmonary Embolism Detection Dataset
 **Sample:** 1,790,594 images; 7,297 participants
 
 
 **Only 5 percent of images in the dataset presented a Pulmonary Embolism**
+![class_imbalance](https://user-images.githubusercontent.com/64563191/96951229-0842cc00-14ba-11eb-85b8-1c286cc5431b.png)
 
 
+### Modeling Process
+**Random Sampling:**
+We randomly selected 5,000 images from each class to train, validate, and test our model.
+- Train: 4,200 images
+- Validation: 1,800 images
+- Test: 5,000 images
+
+
+**Modeling**
+- We tested a total of 13 models in Jupyter Notebooks and Google Colab.
+- 10 used multiple optimizers, batch sizes, epochs, & numbers of layers - 3 were Transfer Learning models - Inception & ResNet 50
+
+
+**Model Evaluation**
+- We optimized our models on the Recall score so as to limit the number of PE misses (false negatives).
 
 
 ###  Select Observations/Findings and Conclusions
