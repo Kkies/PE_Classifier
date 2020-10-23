@@ -22,6 +22,7 @@
 
 
 ## Links 
-- Google Slides Presentation: https://docs.google.com/presentation/d/1p4VuCOoV3bwCLtrCccHUAjWcxJAHMOGNIu_sMCHDAcY/edit?usp=sharing
-- CDC statistics on PEs: https://www.cdc.gov/ncbddd/dvt/data.html#:~:text=The%20precise%20number%20of%20people,(also%20called%20venous%20thromboembolism)
-- Data: https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection
+- **Google Slides Presentation:** https://docs.google.com/presentation/d/1p4VuCOoV3bwCLtrCccHUAjWcxJAHMOGNIu_sMCHDAcY/edit?usp=sharing
+- **CDC statistics on PEs:** https://www.cdc.gov/ncbddd/dvt/data.html#:~:text=The%20precise%20number%20of%20people,(also%20called%20venous%20thromboembolism)
+- **Data:** https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection
+- **Google Colab Notebook for Transfer Learning Models:** https://colab.research.google.com/drive/1hm0cOi4mKFBe_tdrxgnMiIC5go1LnDu3?usp=sharing
