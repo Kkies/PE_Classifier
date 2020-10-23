@@ -11,6 +11,17 @@
 ### The Business Question/Case 
 ---
 - PEs can be hard to spot even for experienced and specialized practitioners. However, with the advent of Deep Learning, we have another tool in our toolbox to help classify PEs with more accuracy. 
+
+### Data
+**Data:** RSNA STR Pulmonary Embolism Detection Dataset
+**Sample:** 1,790,594 images; 7,297 participants
+
+
+**Only 5 percent of images in the dataset presented a Pulmonary Embolism**
+
+
+
+
 ###  Select Observations/Findings and Conclusions
 ---
 
