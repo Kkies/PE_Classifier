@@ -15,10 +15,12 @@
 ---
 
 
-###  Recommendations 
+###  Limitations & Recommendations 
 ---
-- Some of the things we didn’t get to do for this project was classify WHERE the PE is. Being that we only had a few days and that CNNs are computationally stressing, we just classified if there was a PE or not. 
-- Also, Radiologists will use the size of the left and right ventricles to further determine morbidity. Can we use a CNN to measure the sizes and output a probability that this scan has high morbidity? 
+- We were unable to train the model to identify where the PE was located in each image (i.e., right lung, left lung, pulmonary artery). Future models could create multi-class outputs to identify the location of the PE.
+- Given the large size of the dataset and computational limitations, we were unable to train the model on the full dataset thereby limiting the performance of the model. With more time and computational power, future models could train/validate/test on more than just 5,000 images.
+- We were unable to incorporate RV/LV into our analyses. Future models could compare the size of the Left and Right Ventricles (RV/LV ratio*) to predict probability of morbidity.
+ 
 
 
 ## Links 
