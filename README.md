@@ -51,7 +51,8 @@ We randomly selected 5,000 images from each class to train, validate, and test o
 - Adam was the best optimizer
 - Transfer Learners (Inception & ResNet) increased complexity for marginal improvement
 
-<img width="822" alt="Screen Shot 2020-10-23 at 12 39 22 AM" src="https://user-images.githubusercontent.com/64563191/96957338-58c12600-14c8-11eb-98cb-66b25fcd398b.png">
+<img width="517" alt="Screen Shot 2020-10-23 at 11 07 35 AM" src="https://user-images.githubusercontent.com/65979022/97020842-0f042a00-1520-11eb-8866-583e31ad75c7.png">
+
 
 ###  Limitations & Recommendations 
 ---
