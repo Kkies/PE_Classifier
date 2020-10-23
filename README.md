@@ -7,7 +7,10 @@
 - A PE is a blood clot that gets lodged in the vasculature of the lungs. Typically patients who are unhealthy will have many, small emboli however, a massive PE can be deadly as your heart and lungs are directly attached to one another. According to the CDC, sudden death is the FIRST symptom in about a quarter of patients with a PE. Additionally, 10-30% of patients will die within one month of diagnosis. 
 - Data was taken from Kaggle. The original size of the data was over 900 gigabytes due to the large image files. However, we were able to find a smaller sized JPEG version of the data which we used for this project. 
 - Libraries used: ```pandas numpy matplotlib scikitlearn tensorflow keras```
-- Notebooks to refer to 
+
+Notebooks to refer to:
+- - **Google Colab Notebook for Transfer Learning Models:** https://colab.research.google.com/drive/1hm0cOi4mKFBe_tdrxgnMiIC5go1LnDu3?usp=sharing
+
 ### The Business Question/Case 
 ---
 - PEs can be hard to spot even for experienced and specialized practitioners. However, with the advent of Deep Learning, we have another tool in our toolbox to help classify PEs with more accuracy. 
@@ -56,4 +59,3 @@ We randomly selected 5,000 images from each class to train, validate, and test o
 - **Google Slides Presentation:** https://docs.google.com/presentation/d/1p4VuCOoV3bwCLtrCccHUAjWcxJAHMOGNIu_sMCHDAcY/edit?usp=sharing
 - **CDC statistics on PEs:** https://www.cdc.gov/ncbddd/dvt/data.html#:~:text=The%20precise%20number%20of%20people,(also%20called%20venous%20thromboembolism)
 - **Data:** https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection
-- **Google Colab Notebook for Transfer Learning Models:** https://colab.research.google.com/drive/1hm0cOi4mKFBe_tdrxgnMiIC5go1LnDu3?usp=sharing
