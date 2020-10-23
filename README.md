@@ -31,12 +31,12 @@ We randomly selected 5,000 images from each class to train, validate, and test o
 - Test: 5,000 images
 
 
-**Modeling**
+**Modeling:**
 - We tested a total of 13 models in Jupyter Notebooks and Google Colab.
 - 10 used multiple optimizers, batch sizes, epochs, & numbers of layers - 3 were Transfer Learning models - Inception & ResNet 50
 
 
-**Model Evaluation**
+**Model Evaluation:**
 - We optimized our models on the Recall score so as to limit the number of PE misses (false negatives).
 
 
