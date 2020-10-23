@@ -9,7 +9,9 @@
 - Libraries used: ```pandas numpy matplotlib scikitlearn tensorflow keras```
 
 Notebooks to refer to:
-- **Google Colab Notebook for Transfer Learning Models:** https://colab.research.google.com/drive/1hm0cOi4mKFBe_tdrxgnMiIC5go1LnDu3?usp=sharing
+- pulmonary_embolism_EDA
+- PE_classification
+- Google Colab Notebook for Transfer Learning Models: https://colab.research.google.com/drive/1hm0cOi4mKFBe_tdrxgnMiIC5go1LnDu3?usp=sharing
 
 ### The Business Question/Case 
 ---
