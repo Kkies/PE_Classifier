@@ -45,7 +45,11 @@ We randomly selected 5,000 images from each class to train, validate, and test o
 
 ###  Select Observations/Findings and Conclusions
 ---
+- Final model had 3 convolutional layers with a max pooling layer after each one
+- Adam was the best optimizer
+- Transfer Learners (Inception & ResNet) increased complexity for marginal improvement
 
+<img width="822" alt="Screen Shot 2020-10-23 at 12 39 22 AM" src="https://user-images.githubusercontent.com/64563191/96957338-58c12600-14c8-11eb-98cb-66b25fcd398b.png">
 
 ###  Limitations & Recommendations 
 ---
